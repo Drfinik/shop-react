@@ -3,9 +3,10 @@ import Item from './Item'
 
 export class Items extends Component {
   render() {
+    const reversedItems = this.props.items.slice().reverse();
     return (
       <main>
-        {this.props.items.map(el => (
+        {reversedItems.map(el => (
            <Item key={el.id} item={el}/> 
 
         ))}

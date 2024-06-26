@@ -10,7 +10,7 @@ class App extends React.Component {
       items: [
         {
           id: 1,
-          title: 'Стул серый',
+          title: 'Стул 1',
           img: '1.jpg',
           desc: 'lorem lorem lorem lorem lorem lorem lorem.',
           categoriy: 'lorem lorem lorem lorem lorem lorem',
@@ -18,7 +18,7 @@ class App extends React.Component {
         },
         {
           id: 2,
-          title: 'Стул серый',
+          title: 'Стул 2',
           img: '2.jpg',
           desc: 'lorem lorem lorem lorem lorem lorem lorem.',
           categoriy: 'lorem lorem lorem lorem lorem lorem',
@@ -26,7 +26,7 @@ class App extends React.Component {
         },
         {
           id: 3,
-          title: 'Стул серый',
+          title: 'Стул 3',
           img: '3.jpg',
           desc: 'lorem lorem lorem lorem lorem lorem lorem.',
           categoriy: 'lorem lorem lorem lorem lorem lorem',
@@ -34,7 +34,7 @@ class App extends React.Component {
         },
         {
           id: 4,
-          title: 'Стул серый',
+          title: 'Стул 4',
           img: '4.jpg',
           desc: 'lorem lorem lorem lorem lorem lorem lorem.',
           categoriy: 'lorem lorem lorem lorem lorem lorem',
@@ -42,7 +42,7 @@ class App extends React.Component {
         },
         {
           id: 5,
-          title: 'Стул серый',
+          title: 'Стул 5',
           img: '5.jpg',
           desc: 'lorem lorem lorem lorem lorem lorem lorem.',
           categoriy: 'lorem lorem lorem lorem lorem lorem',
@@ -50,7 +50,7 @@ class App extends React.Component {
         },
         {
           id: 6,
-          title: 'Стул серый',
+          title: 'Стул 6',
           img: '6.jpg',
           desc: 'lorem lorem lorem lorem lorem lorem lorem.',
           categoriy: 'lorem lorem lorem lorem lorem lorem',
@@ -58,7 +58,7 @@ class App extends React.Component {
         },
         {
           id: 7,
-          title: 'Стул серый',
+          title: 'Стул 7',
           img: '7.jpg',
           desc: 'lorem lorem lorem lorem lorem lorem lorem.',
           categoriy: 'lorem lorem lorem lorem lorem lorem',
@@ -66,7 +66,7 @@ class App extends React.Component {
         },
         {
           id: 8,
-          title: 'Стул серый',
+          title: 'Стул 8',
           img: '8.jpg',
           desc: 'lorem lorem lorem lorem lorem lorem lorem.',
           categoriy: 'lorem lorem lorem lorem lorem lorem',
@@ -74,7 +74,7 @@ class App extends React.Component {
         },
         {
           id: 9,
-          title: 'Стул серый',
+          title: 'Стул 9',
           img: '9.jpg',
           desc: 'lorem lorem lorem lorem lorem lorem lorem.',
           categoriy: 'lorem lorem lorem lorem lorem lorem',
