@@ -7,7 +7,7 @@ export class Items extends Component {
     return (
       <main>
         {reversedItems.map(el => (
-           <Item key={el.id} item={el}/> 
+           <Item key={el.id} item={el} onAdd={this.props.onAdd}/> 
 
         ))}
       </main>
